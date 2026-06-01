@@ -1,0 +1,3 @@
+-- organizar pastar --
+-- adicionar imagens -- 
+-- arrumar o confirmar resposta -- 
